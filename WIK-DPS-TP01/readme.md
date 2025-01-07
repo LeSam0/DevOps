@@ -7,6 +7,7 @@ Le programme renvoie, au format JSON, le headers de la requête quand on fait un
 ### Installation :
 
 Clone le repo : 
+`git clone https://github.com/LeSam0/DevOps.git`
 
 Il faut ensuite créer la variable d'environement `PING_LISTEN_PORT` et la configurer.
 
